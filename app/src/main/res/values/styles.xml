@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="laura" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_test
+        </item>
+    </style>
+
+    <style name="lauraovalo" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_oval</item>
+    </style>
+
+    <style name="Thememodii" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorBackground">#6A0888</item>
+    </style>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
